@@ -1,0 +1,47 @@
+{
+  "S24005": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Steffen Meier, Kirtaweg 8, 81829 München, Deutschland",
+    "receiver": "Sandy Prince, Gaversesteenweg 616, 9820 Merelbeke-Melle, Belgien",
+    "price": "2.700,00 €",
+    "description": "Hersteller: Kawasaki<br>Typ: ZZR 1400<br>Fahrgestelnummer: JKBZXNA166A007057<br>Erstzulassung: 02/2006<br>KM laut Vorbesitzer: 35.786 km<br>Leistung: 140 kW (190 PS)<br>Hubraum: 1.441 cm³<br>Farbe: Grau<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Sandy Prince<br>Gaversesteenweg 616<br>9820 Merelbeke-Melle<br>Belgien<br>Telefon: +32 475 871369",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "13.01.2026",
+    "deliveryDate": "16.01.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
